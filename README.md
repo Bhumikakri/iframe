@@ -4,4 +4,6 @@
 make two html file 1st 'infram.html' and 2nd 'index.html'
 in infram.html file, 'div' tag and 'p' tag and 'h3' tag for Welcome to Geekster,
 again 'div' tag and 'p' tag for writing paragraph,
+in 2nd index.html
+'iframe'tag is used to add one webpage into other
 
